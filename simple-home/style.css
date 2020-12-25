@@ -1,0 +1,30 @@
+div,
+span {
+  border: 1px solid;
+}
+.home {
+  width: 500px;
+  font-size: 0;
+  background: oldlace;
+}
+.window {
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  margin-top: 23px;
+  background: rgb(177, 226, 255);
+}
+.door {
+  height: 300px;
+  width: 148px;
+  margin-left: 175px;
+  margin-top: 100px;
+  border-bottom: none;
+  background: rgb(115, 50, 65);
+}
+.window-left {
+  margin-left: 23px;
+}
+.window-right {
+  margin-left: 150px;
+}
